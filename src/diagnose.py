@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# __main__.py
+# diagnose.py
 #
 # Created by Jonathan J. P. Peters
 #
@@ -9,7 +9,7 @@
 #
 ###############################################################################
 
-from process_images import process_images, process_fb_dt, process_rotation
+from diagnosis.process_images import process_images, process_fb_dt, process_rotation
 
 
 # The folder containing the data to fit flyback for

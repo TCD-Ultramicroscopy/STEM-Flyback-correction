@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# read_dm3.py
+# read_dm.py
 #
 # This is used to read DigitalMicrograph data (.dm3 and .dm4)
 # copied from sources below

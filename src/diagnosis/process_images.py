@@ -16,9 +16,9 @@ from lmfit import Model, Parameters
 import matplotlib.pyplot as plt
 
 # These are from this project
-from generate_reference import gen_ref
-from fit_hysteresis import fit_hysteresis
-from read_dm3 import DM3
+from .generate_reference import gen_ref
+from .fit_hysteresis import fit_hysteresis
+from utils import DM3
 
 
 ###############################################################################

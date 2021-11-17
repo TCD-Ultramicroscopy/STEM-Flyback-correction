@@ -19,7 +19,7 @@ from scipy.signal import correlate as sp_correlate
 from scipy.ndimage import median_filter as sp_med
 from scipy.ndimage import gaussian_filter as sp_gauss
 
-from phase_correlate import phase_cross_correlation
+from .phase_correlate import phase_cross_correlation
 
 
 ###############################################################################
